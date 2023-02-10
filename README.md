@@ -24,7 +24,7 @@
 ## <a id="setup"></a> 📁 〢 Setting
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
-2. Install [Stormy](https://github.com/4karaDEV/Stormy/zip/refs/heads/Stormy-main.zip) 
+2. Install [Stormy](https://codeload.github.com/4karaDEV/Stormy/zip/refs/heads/main)
 3. Install all requirements
 4. Click on setup.bat
 5. Complete the configuration
