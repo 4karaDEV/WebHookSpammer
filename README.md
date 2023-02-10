@@ -35,9 +35,9 @@
 
 ```diff
 v1.0 ⋮ 2023-02-10
-- webhook url
-- webhook name
-- message spam fixe
++ webhook url
++ webhook name
++ message spam fixe
 ```
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
