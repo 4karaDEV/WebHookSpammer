@@ -1,14 +1,7 @@
-# BlackCap Grabber v2.3
-
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/Banner.png)
-
+# Stormy WebhookSpammer v1.0
 
 ![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/nowFUD.png)
 ##### BlackCap Codes is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
-
-
-##### [:gem: Premium](https://discord.gg/blackcap)
-
 
 <h1 align="center">
  https://blackcap.glitch.me
