@@ -1,5 +1,7 @@
 # Stormy WebhookSpammer v1.0
 
+![](https://github.com/4karaDEV/Stormy/blob/main/assets/main.PNG)
+
 ![](https://raw.githubusercontent.com/KSCHdsc/BlackCap-Assets/main/nowFUD.png)
 ##### BlackCap Codes is fully undetectable, the only detections are the fault of pyinstaller we recommend to use Cx_Freeze to compile it
 
