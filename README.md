@@ -1,4 +1,4 @@
-# Stormy WebhookSpammer v1.0
+#🔮 Stormy WebhookSpammer v1.0
 
 ![](https://github.com/4karaDEV/Stormy/blob/main/assets/main.PNG)
 
