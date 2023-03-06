@@ -40,6 +40,10 @@ v1.0 ⋮ 2023-02-10
 + message spam fixe
 ```
 
+## <a id="feature"></a>📑 〢 Feature
+- [x] WebhookSpammer
+- [ ] AutoDestruct webhook
+
 ### <a id="terms"></a>💼 〢 Terms Of Usage
 
 - [x] Educational purpose only
