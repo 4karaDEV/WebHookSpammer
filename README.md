@@ -16,10 +16,9 @@
 
 ## <a id="content"></a>🌐 〢 Content
 
-- [🌐・Website](Soon)
-- [🌌・Discord](https://discord.gg/XyV8RZDjQU)
-- [🎉・Setting](#setup)
+- [📁・Setting](#setup)
 - [📝・Changelog](#changelog)
+- [📑・Feature](#feature)
 - [💼・Term](#terms)
 
 ## <a id="setup"></a> 📁 〢 Setting
